@@ -110,8 +110,8 @@ b, strong {
 .animated-info {
   display: inline-block;
   vertical-align: top;
-  margin-top: 5px;
-  min-width: 260px;
+  margin-top: -5px;
+  min-width: 270px;
   position: relative;
 }
 
@@ -549,6 +549,7 @@ b, strong {
 
   .about-text {
     text-align: center;
+		
   }
 
   .full-screen {
